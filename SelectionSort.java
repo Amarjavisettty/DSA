@@ -29,3 +29,16 @@ public class SelectionSort{
   }
 }
 
+
+output
+  enter no of elements
+5
+enter the elements
+2 5 3 4 1
+sortedarray
+1
+2
+3
+4
+5
+
