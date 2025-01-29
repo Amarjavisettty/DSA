@@ -70,3 +70,13 @@ public class BCCGraph {
         graph.findBCCs();
     }
 }
+output
+ Biconnected Component: 4 3 
+Biconnected Component: 3 1 
+Biconnected Component: 0 
+Biconnected Component: 2 
+Biconnected Component: 2 
+Biconnected Component: 1 
+Biconnected Component: 1 
+Biconnected Component: 0 
+   
